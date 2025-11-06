@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Jonas</h1>
 <h3 align="center">Business informatics student and full-stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riemerjonas&label=Profile%20views&color=0e75b6&style=flat" alt="riemerjonas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riemjoe&label=Profile%20views&color=0e75b6&style=flat" alt="riemerjonas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riemerjonas" alt="riemerjonas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riemjoe" alt="riemjoe" /></a> </p>
 
 - 👨‍💻 My projects are available at [webdesign-riemer.de](webdesign-riemer.de)
 
